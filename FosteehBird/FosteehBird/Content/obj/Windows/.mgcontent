@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/Bureau/flappyBirdMonoGameClone/FosteehBird/FosteehBird/Content/Graphics/0.png</File>
+    <File>D:/Bureau/flappyBirdMonoGameClone/FosteehBird/FosteehBird/Content/Graphics/1.png</File>
+    <File>D:/Bureau/flappyBirdMonoGameClone/FosteehBird/FosteehBird/Content/Graphics/2.png</File>
+    <File>D:/Bureau/flappyBirdMonoGameClone/FosteehBird/FosteehBird/Content/Graphics/3.png</File>
+    <File>D:/Bureau/flappyBirdMonoGameClone/FosteehBird/FosteehBird/Content/Graphics/4.png</File>
+    <File>D:/Bureau/flappyBirdMonoGameClone/FosteehBird/FosteehBird/Content/Graphics/5.png</File>
+    <File>D:/Bureau/flappyBirdMonoGameClone/FosteehBird/FosteehBird/Content/Graphics/6.png</File>
+    <File>D:/Bureau/flappyBirdMonoGameClone/FosteehBird/FosteehBird/Content/Graphics/7.png</File>
+    <File>D:/Bureau/flappyBirdMonoGameClone/FosteehBird/FosteehBird/Content/Graphics/8.png</File>
+    <File>D:/Bureau/flappyBirdMonoGameClone/FosteehBird/FosteehBird/Content/Graphics/9.png</File>
+    <File>D:/Bureau/flappyBirdMonoGameClone/FosteehBird/FosteehBird/Content/Graphics/background-day.png</File>
+    <File>D:/Bureau/flappyBirdMonoGameClone/FosteehBird/FosteehBird/Content/Graphics/background-night.png</File>
+    <File>D:/Bureau/flappyBirdMonoGameClone/FosteehBird/FosteehBird/Content/Graphics/base.png</File>
+    <File>D:/Bureau/flappyBirdMonoGameClone/FosteehBird/FosteehBird/Content/Graphics/bluebird-downflap.png</File>
+    <File>D:/Bureau/flappyBirdMonoGameClone/FosteehBird/FosteehBird/Content/Graphics/bluebird-midflap.png</File>
+    <File>D:/Bureau/flappyBirdMonoGameClone/FosteehBird/FosteehBird/Content/Graphics/bluebird-upflap.png</File>
+    <File>D:/Bureau/flappyBirdMonoGameClone/FosteehBird/FosteehBird/Content/Graphics/gameover.png</File>
+    <File>D:/Bureau/flappyBirdMonoGameClone/FosteehBird/FosteehBird/Content/Graphics/message.png</File>
+    <File>D:/Bureau/flappyBirdMonoGameClone/FosteehBird/FosteehBird/Content/Graphics/pipe-green.png</File>
+    <File>D:/Bureau/flappyBirdMonoGameClone/FosteehBird/FosteehBird/Content/Graphics/pipe-red.png</File>
+    <File>D:/Bureau/flappyBirdMonoGameClone/FosteehBird/FosteehBird/Content/Graphics/redbird-downflap.png</File>
+    <File>D:/Bureau/flappyBirdMonoGameClone/FosteehBird/FosteehBird/Content/Graphics/redbird-midflap.png</File>
+    <File>D:/Bureau/flappyBirdMonoGameClone/FosteehBird/FosteehBird/Content/Graphics/redbird-upflap.png</File>
+    <File>D:/Bureau/flappyBirdMonoGameClone/FosteehBird/FosteehBird/Content/Graphics/yellowbird-downflap.png</File>
+    <File>D:/Bureau/flappyBirdMonoGameClone/FosteehBird/FosteehBird/Content/Graphics/yellowbird-midflap.png</File>
+    <File>D:/Bureau/flappyBirdMonoGameClone/FosteehBird/FosteehBird/Content/Graphics/yellowbird-upflap.png</File>
+    <File>D:/Bureau/flappyBirdMonoGameClone/FosteehBird/FosteehBird/Content/Sounds/die.wav</File>
+    <File>D:/Bureau/flappyBirdMonoGameClone/FosteehBird/FosteehBird/Content/Sounds/hit.wav</File>
+    <File>D:/Bureau/flappyBirdMonoGameClone/FosteehBird/FosteehBird/Content/Sounds/point.wav</File>
+    <File>D:/Bureau/flappyBirdMonoGameClone/FosteehBird/FosteehBird/Content/Sounds/swoosh.wav</File>
+    <File>D:/Bureau/flappyBirdMonoGameClone/FosteehBird/FosteehBird/Content/Sounds/wing.wav</File>
+    <File>D:/Bureau/flappyBirdMonoGameClone/FosteehBird/FosteehBird/Content/Graphics/Mobile - Flappy Bird - Version 12 Sprites.png</File>
+  </SourceFiles>
+</SourceFileCollection>
